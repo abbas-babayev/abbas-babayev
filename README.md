@@ -1,30 +1,86 @@
-# 👋 Hi, I'm Abbas Babayev
+# Abbas Babayev
 
-**IT Professional | Linux System Administrator | Cybersecurity Enthusiast**
+Security / DevOps / Networking Engineer  
 
-📍 Baku, Azerbaijan (Open to relocation)  
-📧 bbwrksat@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abbasbabayev-work)
+I build security tools, automate infrastructure and work with Linux, networking and deployment environments.
 
 ---
 
-## 🚀 About Me
+## 🚀 Overview
 
-IT professional with strong practical experience in:
-- 🐧 **Linux system administration** (Ubuntu, VPS, SSH/SCP, user management)
-- 🔐 **VPN deployment** (WireGuard, OpenVPN, Xray, VLESS, Shadowsocks, Amnezia-WG)
-- 🌐 **Networking** (Cisco, VLAN, TCP/IP, DNS, Zabbix, Grafana)
-- 🛡️ **Security monitoring** (TheHive, IOC analysis, incident response)
-- 🤖 **Python automation** (Telegram bots, scripts, aiogram)
++ Linux • Networking • Security • Automation • DevOps
 
-🎓 **Education:**
-- StepIT Academy (2023–2026) — Cybersecurity & Network Engineering
-- PFUR (2025–present) — Cybersecurity & Data Engineering
+- 🐧 Linux administration, server setup, SSH, Nginx, VPS
+- 🌐 Networking: VLAN, OSPF, DHCP, routing, Cisco labs
+- 🔐 Security: IOC analysis, TheHive, incident investigation
+- 🐍 Python automation, bots, scripting
+- 🔑 VPN: WireGuard, OpenVPN, Xray
+- 📊 Monitoring: Zabbix, Grafana
 
-⚡ **Fully flexible schedule** — available worldwide with no time zone restrictions.
+---
 
-## 📫 Contact Me
-- 📧 Email: bbwrksat@gmail.com
-- 🔗 LinkedIn: [abbasbabayev-work](https://www.linkedin.com/in/abbasbabayev-work)
+## 🧰 Tech Stack
 
-⭐ *Open to opportunities in cybersecurity, Linux administration, and DevOps.*
+`Linux` `Bash` `Python` `Networking` `Cisco` `WireGuard` `OpenVPN`  
+`Nginx` `Zabbix` `Grafana` `TheHive`
+
+---
+
+## 📂 Featured Projects
+
+🔐 Security Tools  
+→ https://github.com/abbas-babayev/security-tools  
+
+🌐 Networking Labs  
+→ https://github.com/abbas-babayev/networking-labs  
+
+⚙️ Linux Automation  
+→ https://github.com/abbas-babayev/linux-automation  
+
+🤖 Telegram Bots  
+→ https://github.com/abbas-babayev/telegram-bots  
+
+🌍 Portfolio Website  
+→ https://github.com/abbas-babayev/abbas-babayev.github.io  
+
+---
+
+## 📜 Certifications
+
+- CCNA (Enterprise, SRWE, ITN)
+- Junior Cybersecurity Analyst
+- Ethical Hacker
+- Network Defense
+- Introduction to Modern AI
+- AWS & Linux (in progress)
+
+---
+
+## 🎓 Education
+
+- StepIT Academy — Cybersecurity & Networking  
+- PFUR — Cybersecurity & Data Engineering  
+
+---
+
+## 🌍 Languages
+
+🇦🇿 Azerbaijani — B2/C1  
+🇷🇺 Russian — C2  
+🇬🇧 English — C1  
+
+---
+
+## 📫 Contact
+
+📧 bbwrksat@gmail.com  
+🐙 https://github.com/abbas-babayev  
+🔗 https://www.linkedin.com/in/abbasbabayev-work  
+
+---
+
+## ⚡ Status
+
+- Open to work  
+- Open to relocation  
+- Full-time availability
